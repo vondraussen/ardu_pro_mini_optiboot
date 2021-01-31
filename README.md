@@ -1,0 +1,1 @@
+Little script to build and burn Optiboot for arduino pro mini on internal RC 8MHz (3.3 V version).
